@@ -25,6 +25,6 @@ Associate Professor, Department of Biostatistics, UNMC; Director of Biostatistic
 Claire M. Hubbard Professor of Water, Climate and Health; Director, Water, Climate and Health Program, UNMC; Director, Water, Climate and Health, Daugherty Water for Food Global Institute; Professor, Institute of Agriculture and Natural Resources, University of Nebraska–Lincoln.
 [jesse.bell@unmc.edu](mailto:jesse.bell@unmc.edu)
 
-**Dr. Gleb Haynatzki** &mdash; PhD Supervisory Committee Member; 
+**Dr. Gleb Haynatzki** &mdash; PhD Supervisory Committee Member;
 Professor, Department of Biostatistics, UNMC.
 [ghaynatzki@unmc.edu](mailto:ghaynatzki@unmc.edu)
