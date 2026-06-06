@@ -1,24 +1,21 @@
-# Theme designed by Olivia Wikle (https://github.com/owikle), used by Nathan B. Wikle.
-# Adapted for Kyei Baffour Afari.
+---
+title: Teaching
+layout: page
+---
 
-title: Kyei Baffour Afari
-author: Kyei Baffour Afari
+### University of Nebraska Medical Center
 
-# url is your gh-pages base, following the pattern: username.github.io
-url: https://kbconsult2017.github.io
+- *Graduate Teaching Assistant*, Department of Biostatistics. 2026--. Tutored graduate students in applying biostatistical methods to biomedical and public health research.
 
-# personal info — shown in the profile sidebar on every page
-bio: "Ph.D. Candidate in Biostatistics, University of Nebraska Medical Center"
-email: kafari@unmc.edu
-school: https://www.unmc.edu/publichealth/departments/biostatistics/
-scholar: https://scholar.google.com/citations?hl=en&user=7HvrqlkAAAAJ
-linkedin: https://www.linkedin.com/in/kyei-afari-0a283084/
-# Fill these in when ready — leave blank to hide the link automatically:
-orcid:
-github:
+### University of Cincinnati
 
-# framework toggles (leave as-is)
-bootstrap: true
-bootstrap-js: true
-jquery: true
-fontawesome: true
+- *Quantitative Reasoning and Introductory Statistics* (instructor of record, 3-credit). 2021--2023.
+- Calculus problem sessions; tutoring at the Math and Science Support Center (MASS Center).
+
+### East Tennessee State University
+
+- Introductory Statistics and Linear Algebra (Center for Academic Achievement); Pre-calculus and (non-calculus) Probability and Statistics. 2020--2021.
+
+### University of Ghana
+
+- *Undergraduate Teaching Assistant*, Department of Information Studies. 2011--2012. Tutored ~60 undergraduates in programming; led weekly sessions in database concepts and Visual Basic .NET.

@@ -1,6 +1,6 @@
-Save your square profile photo in THIS folder, named exactly:
+# kbconsult2017.github.io
 
-    personal-photo.jpg
+Personal academic website of Kyei Baffour Afari.
 
-The theme automatically displays assets/img/personal-photo.jpg in the
-left sidebar on every page. You can then delete this .txt file.
+Built on the Jekyll theme designed by Olivia Wikle (https://github.com/owikle),
+as used by Nathan B. Wikle (https://github.com/nbwikle/nbwikle.github.io).
