@@ -16,7 +16,7 @@ layout: page
 
 ### East Tennessee State University
 **Graduate Teaching Assistant**, Department of Mathematics and Statistics / Center for Academic Achievement (CFAA)
-- Introductory Statistics and Linear Algebra (Center for Academic Achievement); Pre-calculus and (non-calculus) Probability and Statistics. 2020--2021.
+- Introductory Statistics and Linear Algebra; Pre-calculus, Probability and Statistics. 2020--2021.
 
 
 ### University of Ghana
