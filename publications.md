@@ -27,7 +27,7 @@ We address this gap by proposing SVD-PICAR NB-BKMR, which extends the PICAR fram
 
 We compare three competing models: a fixed effect model (M1), a full-rank mixed effect model (M2), and the proposed SVD-PICAR mixed effect model (M3). Models are evaluated through simulation and an application to county-level thyroid cancer and pesticide exposure data from Nebraska (1992–2014). In simulation, M3 achieves the best predictive fit by the Watanabe–Akaike Information Criterion (WAIC), the highest MCMC efficiency by effective sample size per second (ESS/sec), and the most stable exposure identification. In the Nebraska application, Atrazine and Alachlor emerge as the leading contributors to thyroid cancer risk, with nonlinear exposure–response relationships that remain robust after spatio-temporal correction.
 
-**Afari, K.B.** et al (2026+) The SVD-PICAR framework offers a principled and practically workable approach for mixture analysis in spatio-temporal count data settings.
+The SVD-PICAR framework offers a principled and practically workable approach for mixture analysis in spatio-temporal count data settings.
 
 </details>
 
@@ -44,7 +44,7 @@ This is the first study demonstrating an increased risk of COPD mortality with d
 
 </details>
 
-A Cluster-Based Framework for Joint Mixture Effects: Extending SVD-PICAR Bayesian Kernel Machine Regression to Spatio-Temporal Count Outcomes ( in preparation )
+**Afari, K.B.** et al (2026+) A Cluster-Based Framework for Joint Mixture Effects: Extending SVD-PICAR Bayesian Kernel Machine Regression to Spatio-Temporal Count Outcomes ( in preparation )
 
 ### Published
 
