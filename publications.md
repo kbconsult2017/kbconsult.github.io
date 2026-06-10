@@ -45,7 +45,7 @@ This is the first study demonstrating an increased risk of COPD mortality with d
 </details>
 
 
-**Afari, K.B.** et al (2026+) A Cluster-Based Framework for Joint Mixture Effects: Extending SVD-PICAR Bayesian Kernel Machine Regression to Spatio-Temporal Count Outcomes ( in preparation )
+**Afari, K.B.** et al (2026+) A Cluster-Based Framework for Joint Mixture Effects: Extending SVD-PICAR Bayesian Kernel Machine Regression to Spatio-Temporal Count Outcomes ( In preparation for Biometrics )
 
 **Afari, K.B.** (2026+) stsvdpicar: An R Package for Scalable Bayesian Spatio-Temporal Inference via SVD-PICAR. Software paper in preparation for the Journal of Statistical Software. Repository: [GitHub URL once available]
 
