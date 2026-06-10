@@ -5,7 +5,7 @@ layout: page
 
 ### Working Papers & Under Review
 
-**Afari, K.B.** and Gwon, Y. (2026+) Compressed Spatio-Temporal Basis Functions: An SVD-PICAR Framework for Scalable Gaussian and Multinomial Inference. Under review at *Journal of Computational and Graphical Statistics*. *(Job market paper)*
+**Afari, K.B.** and Gwon, Y. (2026+) Compressed Spatio-Temporal Basis Functions: An SVD-PICAR Framework for Scalable Gaussian and Multinomial Inference. Under review at *Journal of Computational and Graphical Statistics*.
 <details markdown="1"><summary>Abstract</summary>
 
 When spatial basis representations are extended to the spatio-temporal setting, the hierarchical model dimension grows quickly due to tensor-product constructions, leading to large and redundant bases. Existing approaches such as PICAR (Projection-based Intrinsic Conditional Autoregression) improve computational efficiency by selecting a rank *r* within a user-specified maximum basis size *K* (that is, *r* ≤ *K*), but provide no principled way to choose *K* itself, leaving the selected basis potentially non-optimal for the data.
@@ -18,7 +18,7 @@ Overall, ST-SVD-PICAR provides a scalable, principled approach for high-dimensio
 
 </details>
 
-**Afari, K.B.** and Gwon, Y. (2026+) SVD-PICAR Bayesian Kernel Machine Regression Framework for Spatio-Temporal Count Data. Under review at *Statistics in Medicine*. *(Job market paper)*
+**Afari, K.B.** and Gwon, Y. (2026+) SVD-PICAR Bayesian Kernel Machine Regression Framework for Spatio-Temporal Count Data. Under review at *Statistics in Medicine*.
 <details markdown="1"><summary>Abstract</summary>
 
 Bayesian kernel machine regression (BKMR) has become a widely used tool for studying the health effects of complex exposure mixtures, with extensions to overdispersed count outcomes now available. However, existing BKMR models for count data handle spatial and temporal structure separately rather than as a unified random field, leaving the joint space–time dependency in the data unmodeled. No existing method therefore combines nonlinear mixture modeling, a neighborhood-based spatio-temporal random effect, and an overdispersed count likelihood in a single computationally workable framework.
